@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rei / typakon4
+# typakon4
 
 **AI engineering in public — field notes, agent workflows, and proof-backed tools.**
 
