@@ -37,7 +37,7 @@ I turn new AI tooling into **runnable, inspectable workflows** — with a prefer
 </td>
 <td width="38%" align="center" valign="top">
 
-<img src="assets/rei-portrait.svg" width="290" alt="Original blue-haired sci-fi portrait" />
+<img src="assets/rei-evangelion-collage.jpg" width="290" alt="Blue Evangelion collage with Rei Ayanami" />
 
 <sub><i>stillness is a feature.</i></sub>
 
