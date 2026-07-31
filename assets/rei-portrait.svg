@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 900" role="img" aria-labelledby="title desc">
+  <title id="title">Original blue-haired sci-fi portrait</title>
+  <desc id="desc">A quiet original portrait with cool blue hair, a white suit and a red moon.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#101b2c"/><stop offset="1" stop-color="#27394d"/></linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#bedcf0"/><stop offset="1" stop-color="#55758e"/></linearGradient>
+    <linearGradient id="suit" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f1f2ee"/><stop offset="1" stop-color="#aeb9c0"/></linearGradient>
+    <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".82" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .05"/></feComponentTransfer></filter>
+  </defs>
+  <rect width="640" height="900" fill="url(#sky)"/>
+  <circle cx="470" cy="165" r="105" fill="#d35a5a" opacity=".88"/>
+  <path d="M0 590C148 525 265 560 385 522c103-33 168-17 255 19v359H0Z" fill="#152537"/>
+  <path d="M0 648c142-45 287 11 411-26 83-24 152-22 229 5v213H0Z" fill="#0c1726"/>
+  <g stroke="#182939" stroke-width="7" stroke-linecap="round">
+    <path d="m97 693 101-35 81 24 110-43 126 27"/><path d="m70 762 133-30 92 31 102-36 155 25"/>
+  </g>
+  <g>
+    <path d="M167 870c14-153 52-243 153-248 108 5 147 96 163 248Z" fill="url(#suit)" stroke="#81909a" stroke-width="7"/>
+    <path d="M224 674c23 47 62 70 97 70s74-23 96-70l-35-58H258Z" fill="#d1d8d8" stroke="#81909a" stroke-width="7"/>
+    <path d="M269 668h101l-13 47h-75Z" fill="#be4c50"/>
+    <path d="m196 808 91-38m160 38-91-38" stroke="#be4c50" stroke-width="10"/>
+    <path d="M213 487c0-126 55-203 108-203s108 77 108 203c0 95-47 173-108 173s-108-78-108-173Z" fill="#efd9cd" stroke="#172838" stroke-width="8"/>
+    <path d="M194 488c-20-108 13-244 128-252 119 2 155 140 122 252l-49-48-8-118c-29 21-81 27-132 18l-10 100Z" fill="url(#hair)" stroke="#172838" stroke-width="8"/>
+    <path d="M211 415c23 35 62 40 108 36 49-3 81-17 108-44v98c-14-35-40-52-65-60-54 20-100 12-150-27Z" fill="#88acc5" opacity=".9"/>
+    <ellipse cx="278" cy="490" rx="16" ry="10" fill="#b44b50"/><ellipse cx="365" cy="490" rx="16" ry="10" fill="#b44b50"/>
+    <path d="M298 559c17 8 33 8 48 0" fill="none" stroke="#a77f78" stroke-width="5" stroke-linecap="round"/>
+    <path d="M252 456c18-11 34-11 51-3m34 0c17-8 33-8 51 3" fill="none" stroke="#172838" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <rect width="640" height="900" filter="url(#grain)" opacity=".6"/>
+  <rect x="24" y="24" width="592" height="852" fill="none" stroke="#9eb6c7" stroke-opacity=".45" stroke-width="2"/>
+</svg>
