@@ -4,7 +4,6 @@
 
 **AI engineering in public — field notes, agent workflows, and proof-backed tools.**
 
-[![Website](https://img.shields.io/badge/Inridegg.ru-0d1117?style=for-the-badge&logo=firefox-browser&logoColor=b9d9ff)](https://inridegg.ru)
 [![X](https://img.shields.io/badge/@typakon4-0d1117?style=for-the-badge&logo=x&logoColor=b9d9ff)](https://x.com/typakon4)
 
 </div>
