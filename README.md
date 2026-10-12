@@ -1,64 +1,25 @@
-<div align="center">
+<img src="assets/rei-cover-v2.png" alt="typakon4 — Rei Ayanami in a moonlit blue scene" width="100%">
 
-# typakon4
+### Hey, I’m typakon4.
 
-**AI engineering in public — field notes, agent workflows, and proof-backed tools.**
+Learning AI engineering in public. I build tools for agents, write down workflows that others can reuse, and turn ideas into small, inspectable projects.
 
-[![X](https://img.shields.io/badge/@typakon4-0d1117?style=for-the-badge&logo=x&logoColor=b9d9ff)](https://x.com/typakon4)
+**Python · JavaScript / Node.js · Markdown** &nbsp; / &nbsp; Codex · Hermes · OMP
 
-</div>
+## Selected projects
 
-<table>
-<tr>
-<td width="62%" valign="top">
+**01 &nbsp; [agent-stack ↗︎](https://github.com/typakon4/agent-stack)**<br>
+Shared instructions, skills and templates for Codex, Hermes and OMP. Credentials and live state stay local.
 
-## System status
+**02 &nbsp; [jev-layer ↗︎](https://github.com/typakon4/jev-layer)**<br>
+Help agents choose a capability within a defined scope, record the decision and replay it offline. The host controls execution.
 
-```text
-ROLE      AI engineering learner / builder
-MODE      Python-first · public research · shipping small proofs
-CURRENT   agent workflows · runnable field notes · evaluation
-LANGS     RU native · EN C1 in progress
-```
+**03 &nbsp; [runnable-field-notes ↗︎](https://github.com/typakon4/runnable-field-notes)**<br>
+Reusable Markdown workflow packs: inspect first, review a plan, then approve changes.
 
-I turn new AI tooling into **runnable, inspectable workflows** — with a preference for field evidence over hype.
+**04 &nbsp; [MusicBridge ↗︎](https://github.com/typakon4/musicbridge)**<br>
+A prototype for shared listening rooms. It coordinates playback without streaming audio; provider integrations are still on the roadmap.
 
-### What I’m building
+---
 
-- **Agent workflows** — human-controlled systems with visible traces and approval gates.
-- **Runnable field notes** — versioned Markdown for safely adapting real AI practices.
-- **Proof-backed tools** — small, concrete artifacts that can be inspected and reused.
-
-### Stack, currently
-
-`Python` · `TypeScript` · `Git` · `Hermes` · `Codex` · `NotebookLM` · `Expo`
-
-</td>
-<td width="38%" align="center" valign="top">
-
-<img src="assets/rei-evangelion-collage.jpg" width="290" alt="Blue Evangelion collage with Rei Ayanami" />
-
-<sub><i>stillness is a feature.</i></sub>
-
-</td>
-</tr>
-</table>
-
-## Selected work
-
-| Project | Why it exists |
-| --- | --- |
-| [**runnable-field-notes**](https://github.com/typakon4/runnable-field-notes) | Read-only-first Markdown field notes for adapting AI workflows safely. |
-| [**rei**](https://github.com/typakon4/rei) | `rei_neuro_sync` — an experiment in personal AI operations. |
-| [**reiops-demo**](https://github.com/typakon4/reiops-demo) | A managed operations layer: vetted workflows, sandboxes, traces, and human approval gates. |
-| [**openkey-source**](https://github.com/typakon4/openkey-source) | Project-management messenger. |
-
-## Principles
-
-> Make the work visible. Keep the human in control. Leave a trail someone else can run.
-
-<div align="center">
-
-[**Website**](https://inridegg.ru) · [**X / Twitter**](https://x.com/typakon4) · [**GitHub**](https://github.com/typakon4)
-
-</div>
+[Explore repositories ↗︎](https://github.com/typakon4?tab=repositories) &nbsp; · &nbsp; [X / @typakon4](https://x.com/typakon4)
